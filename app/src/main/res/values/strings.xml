@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MUPI APP</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">TV Shows</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="duration">Duration</string>
+    <string name="genre">Genre</string>
+    <string name="status">Status</string>
+    <string name="rating">Rating</string>
+    <string name="overview">Overview</string>
+    <string name="logo">Logo MUPI</string>
+    <string name="poster">Poster</string>
+    <string name="minutes">%d Minutes</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="ok">Successful deleted from favorite</string>
+    <string name="undo">Undo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
